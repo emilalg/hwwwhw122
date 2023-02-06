@@ -1,2 +1,7 @@
 target/
 *.class
+.gradle
+bin
+build
+.vscode
+gradle/

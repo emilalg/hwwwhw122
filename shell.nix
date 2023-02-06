@@ -4,5 +4,6 @@ pkgs.mkShell {
   buildInputs = [
     pkgs.jdk
     pkgs.maven
+    pkgs.gradle
   ];
 }
