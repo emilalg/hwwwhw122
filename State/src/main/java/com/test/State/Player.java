@@ -6,7 +6,7 @@ public class Player {
     protected int xp = 0;
 
     public Player(){
-
+        this.state = new Charmander(this);
     }
 
     public void attack(){
