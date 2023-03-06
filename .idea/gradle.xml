@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Observer" />
+        <option name="gradleHome" value="$USER_HOME$/programs/gradle-8.0.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Observer" />
+            <option value="$PROJECT_DIR$/Observer/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Strategy" />
+        <option name="gradleHome" value="$USER_HOME$/programs/gradle-8.0.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Strategy" />
+            <option value="$PROJECT_DIR$/Strategy/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Template" />
+        <option name="gradleHome" value="$USER_HOME$/programs/gradle-8.0.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Template" />
+            <option value="$PROJECT_DIR$/Template/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/composite" />
+        <option name="gradleHome" value="$USER_HOME$/programs/gradle-8.0.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/composite" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
